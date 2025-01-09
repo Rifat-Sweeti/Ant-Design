@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/Ant-Design/static/css/main.c5b96148.css",
+    "main.js": "/Ant-Design/static/js/main.31106ba0.js",
+    "static/js/488.567d82cb.chunk.js": "/Ant-Design/static/js/488.567d82cb.chunk.js",
+    "static/media/Europe.png": "/Ant-Design/static/media/Europe.1a3fc4bdef6234bb6da5.png",
+    "static/media/Traveller.png": "/Ant-Design/static/media/Traveller.20f27ec639dd3520e3ac.png",
+    "static/media/Italy.png": "/Ant-Design/static/media/Italy.462f6c66be4a9d8d25ca.png",
+    "static/media/London.jpg": "/Ant-Design/static/media/London.8af9c049b69b7a15157f.jpg",
+    "index.html": "/Ant-Design/index.html",
+    "main.c5b96148.css.map": "/Ant-Design/static/css/main.c5b96148.css.map",
+    "main.31106ba0.js.map": "/Ant-Design/static/js/main.31106ba0.js.map",
+    "488.567d82cb.chunk.js.map": "/Ant-Design/static/js/488.567d82cb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c5b96148.css",
+    "static/js/main.31106ba0.js"
+  ]
+}
