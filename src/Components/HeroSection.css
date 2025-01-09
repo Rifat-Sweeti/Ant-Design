@@ -1,0 +1,53 @@
+.ant-hero {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 2rem;
+    background: #fdfaf4;
+}
+
+.ant-hero-content {
+    max-width: 50%;
+}
+
+.ant-hero-content h1 {
+    font-size: 3rem;
+    color: #181e4b;
+}
+
+.ant-hero-content p {
+    font-size: 1rem;
+    margin: 1rem 0;
+    color: #5e6282;
+}
+
+.ant-hero-buttons {
+    display: flex;
+    gap: 1rem;
+}
+
+.ant-find-out-btn {
+    background-color: #f1a501;
+    border-color: #f1a501;
+    color: white;
+}
+
+.ant-find-out-btn:hover {
+    background-color: #fff;
+    color: #f1a501;
+}
+
+.ant-play-demo-btn {
+    background-color: #fff;
+    color: #f1a501;
+    border: 1px solid #f1a501;
+}
+
+.ant-play-demo-btn:hover {
+    background-color: #f1a501;
+    color: white;
+}
+
+.ant-hero-image {
+    flex-shrink: 0;
+}
