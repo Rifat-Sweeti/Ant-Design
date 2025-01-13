@@ -1,0 +1,32 @@
+/* Header Styles */
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 20px;
+    background: white;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+}
+
+.logo {
+    font-size: 24px;
+    font-weight: bold;
+    color: #ff5722;
+}
+
+.menu {
+    flex: 1;
+    justify-content: center;
+    border: none;
+}
+
+.signup-btn {
+    background: transparent;
+    border: 1px solid black;
+}
+
+.signup-btn:hover {
+    background-color: black;
+    color: #fff;
+    border: 1px solid white;
+}
