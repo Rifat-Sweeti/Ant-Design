@@ -1,19 +1,20 @@
 {
   "files": {
-    "main.css": "/Ant-Design/static/css/main.2df10556.css",
-    "main.js": "/Ant-Design/static/js/main.d22582cb.js",
+    "main.css": "/Ant-Design/static/css/main.ae78b7e7.css",
+    "main.js": "/Ant-Design/static/js/main.c0517334.js",
     "static/js/488.567d82cb.chunk.js": "/Ant-Design/static/js/488.567d82cb.chunk.js",
     "static/media/Europe.png": "/Ant-Design/static/media/Europe.1a3fc4bdef6234bb6da5.png",
     "static/media/Traveller.png": "/Ant-Design/static/media/Traveller.20f27ec639dd3520e3ac.png",
     "static/media/Italy.png": "/Ant-Design/static/media/Italy.462f6c66be4a9d8d25ca.png",
     "static/media/London.jpg": "/Ant-Design/static/media/London.8af9c049b69b7a15157f.jpg",
+    "static/media/Greece.jpg": "/Ant-Design/static/media/Greece.caf1d196e2f4b90f4d88.jpg",
     "index.html": "/Ant-Design/index.html",
-    "main.2df10556.css.map": "/Ant-Design/static/css/main.2df10556.css.map",
-    "main.d22582cb.js.map": "/Ant-Design/static/js/main.d22582cb.js.map",
+    "main.ae78b7e7.css.map": "/Ant-Design/static/css/main.ae78b7e7.css.map",
+    "main.c0517334.js.map": "/Ant-Design/static/js/main.c0517334.js.map",
     "488.567d82cb.chunk.js.map": "/Ant-Design/static/js/488.567d82cb.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2df10556.css",
-    "static/js/main.d22582cb.js"
+    "static/css/main.ae78b7e7.css",
+    "static/js/main.c0517334.js"
   ]
 }
