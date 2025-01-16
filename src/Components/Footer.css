@@ -1,0 +1,76 @@
+.footer-container {
+    background-color: #f8f9fa;
+    padding: 2rem 1rem;
+    text-align: center;
+  }
+  
+  .subscription-section {
+    background-color: #f5f6ff;
+    padding: 2rem;
+    border-radius: 12px;
+    margin-bottom: 2rem;
+  }
+  
+  .subscription-section h2 {
+    font-size: 1.5rem;
+    color: #343a40;
+    margin-bottom: 1rem;
+  }
+  
+  .subscription-form .email-input {
+    width: 300px;
+    border-radius: 8px;
+    padding: 0.5rem;
+  }
+  
+  .subscription-form .subscribe-button {
+    background-color: #ff6b6b;
+    border-color: #ff6b6b;
+    color: #fff;
+    border-radius: 8px;
+    padding: 0.5rem 1rem;
+  }
+  
+  .footer-content {
+    text-align: left;
+  }
+  
+  .footer-content h3,
+  .footer-content h4 {
+    color: #343a40;
+    margin-bottom: 1rem;
+  }
+  
+  .footer-content ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .footer-content ul li {
+    margin: 0.5rem 0;
+    color: #6c757d;
+    cursor: pointer;
+  }
+  
+  .footer-bottom {
+    margin-top: 2rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  .footer-bottom p {
+    color: #6c757d;
+  }
+  
+  .social-icons i {
+    margin: 0 0.5rem;
+    font-size: 1.2rem;
+    color: #6c757d;
+    cursor: pointer;
+  }
+  
+  .social-icons i:hover {
+    color: #ff6b6b;
+  }
+  
